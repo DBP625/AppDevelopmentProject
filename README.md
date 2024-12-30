@@ -33,7 +33,7 @@ Letterly is an Android-based application designed to provide users with dynamic 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/letterly.git
+   git clone https://github.com/DBP625/letterly.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the application on an emulator or physical device.
