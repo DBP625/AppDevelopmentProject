@@ -55,17 +55,11 @@ We welcome contributions! Follow these steps to contribute:
    ```
 5. Open a pull request.
 
-## Future Enhancements
-- Add multilingual support for word suggestions.
-- Integrate a game mode for timed challenges.
-- Include synonyms and definitions for suggested words.
-- Enable offline functionality.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or feedback, please contact us:
+## Contribution
 - **Denesh Barua Pantho**
 - **Abid Al Hossain Swakkhar**
 - **Fahad Bin Aziz Nabil**
