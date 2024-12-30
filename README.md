@@ -66,8 +66,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any inquiries or feedback, please contact us:
-- **Denesh Barua Pantho**: [Your Email or GitHub Profile]
-- **Team Members**: [Add Contact Information]
-
+- **Denesh Barua Pantho**
+- **Abid Al Hossain Swakkhar**
+- **Fahad Bin Aziz Nabil**
 ---
 Thank you for using Letterly. Let’s make word exploration smarter and more fun!
