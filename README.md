@@ -39,3 +39,35 @@ Letterly is an Android-based application designed to provide users with dynamic 
 3. Build and run the application on an emulator or physical device.
 
 ## Contributions
+We welcome contributions! Follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## Future Enhancements
+- Add multilingual support for word suggestions.
+- Integrate a game mode for timed challenges.
+- Include synonyms and definitions for suggested words.
+- Enable offline functionality.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+For any inquiries or feedback, please contact us:
+- **Denesh Barua Pantho**: [Your Email or GitHub Profile]
+- **Team Members**: [Add Contact Information]
+
+---
+Thank you for using Letterly. Let’s make word exploration smarter and more fun!
